@@ -31,7 +31,7 @@ Mediante este informe, nos proponemos analizar en profundidad los patrones y ten
 
 # **Desarrollo**
 
-<p align="center"><img src="./imagenes/"></p>
+
 <p align="center">
   <img src="./imagenes/da1.png" alt="Imagen 1" width="150" />
   <img src="./imagenes/da2.png" alt="Imagen 1" width="150" />
@@ -50,18 +50,18 @@ Objetivo 1: Reducción de la Tasa de Homicidios en Siniestros Viales
 
 Se persigue la meta de disminuir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en la Ciudad Autónoma de Buenos Aires (CABA), en comparación con la tasa del semestre anterior. La tasa de homicidios en siniestros viales se define como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en una zona geográfica durante un período específico.
 
-<p align="center"><img src="./imagenes/kpi1.png"></p>
+
 Objetivo 2: Reducción de Accidentes Mortales de Motociclistas
 
 Se busca reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, en comparación con el año anterior. Definimos la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un periodo determinado.
 
-<p align="center"><img src="./imagenes/kpi2.png"></p>
+
 
 Objetivo 3: Mantener las Horas Promedio de Respuesta
 
 El tercer objetivo se centra en mantener las horas promedio en las que se responde a un siniestro por encima de 114 horas.
 
-<p align="center"><img src="./imagenes/kpi3.png"></p>
+
 
 `Análisis`
 Durante el análisis, se identificaron diversos indicadores de riesgo. Se observa que los días de fin de semana, especialmente en las primeras horas de la madrugada, presentan promedios más elevados de siniestros viales. En la mayoría de los casos, las víctimas son motociclistas. Además, el promedio de muertes por hora revela que las 4 de la mañana tienen el valor más alto, señalando un momento crítico en términos de accidentes viales.
